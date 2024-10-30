@@ -41,7 +41,7 @@ cd Brainwave-website
 
 **Install Packages**
 ```bash
-npm inastall
+npm install
 ```
 
 **Run the Project**
